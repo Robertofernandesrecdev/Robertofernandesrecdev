@@ -17,5 +17,8 @@
   <img align="center" alt="ReactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div> <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robertofernandesrecdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Apaixonado por tecnologia, educação e Programação! <br/>
 [Linkedin:](https://www.linkedin.com/in/roberto-fernandes-04347318b)
