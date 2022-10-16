@@ -5,7 +5,7 @@
 ![Roberto GitHub stats](https://github-readme-stats.vercel.app/api?username=Robertofernandesrecdev&show_icons=true&theme=merko)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-fernandes-04347318b)
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Robertofernandesrecdev/page-home)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://robertofernandesrecdev.github.io/page-home/)
 
 
 
