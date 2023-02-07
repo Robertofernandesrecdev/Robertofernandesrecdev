@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robertofernandesrecdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-fernandes-04347318b)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-fernandes-dev)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://robertofernandesrecdev.github.io/page-home/)
 
 
@@ -31,4 +31,4 @@
 
 
 Apaixonado por tecnologia, educação e Programação! <br/>
-[Linkedin:](https://www.linkedin.com/in/roberto-fernandes-04347318b)
+[Linkedin:](https://www.linkedin.com/in/roberto-fernandes-dev)
